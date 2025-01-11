@@ -131,6 +131,7 @@ public class Main {
             }
         });
         frame.add(FinLabel);
+        frame.setVisible(true);
     }
 
 
